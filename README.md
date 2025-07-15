@@ -33,6 +33,9 @@ Run the program in a Python 3 environment:
 ```bash
 python shopping_discount_calculator.py
 
+```
+## Example Output
+```
 ~ Hi, Welcome to Shopping Counter! ~
 
 Enter your shopping budget: $100
@@ -59,4 +62,9 @@ Total after discounts: $31.25
 Good job! you are within your budget! You have saved $68.75 from your budget.
 
 ^Thank you for using this service! Hope to see you again!^
+```
+## Technology Used
+- Python 3
+- Standard Python libraries (no external dependencies)
+
 
