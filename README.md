@@ -32,3 +32,31 @@ Run the program in a Python 3 environment:
 
 ```bash
 python shopping_discount_calculator.py
+
+~ Hi, Welcome to Shopping Counter! ~
+
+Enter your shopping budget: $100
+
+Enter item name: Shampoo
+Enter price of Shampoo: $12.50
+Enter discount for Shampoo (%): 10
+
+Enter item name: T-shirt
+Enter price of T-shirt: $25.00
+Enter discount for T-shirt (%): 20
+
+Enter item name: done
+
+~Shopping Summary Lists~
+> Shampoo: Original Price: $12.50 | Discount: 10.0% | Final price: $11.25 | Money saved: $1.25
+> T-shirt: Original Price: $25.00 | Discount: 20.0% | Final price: $20.00 | Money saved: $5.00
+
+~Total Shopping Cost~
+Total before discounts: $37.50
+Total saved: $6.25
+Total after discounts: $31.25
+
+Good job! you are within your budget! You have saved $68.75 from your budget.
+
+^Thank you for using this service! Hope to see you again!^
+
