@@ -8,7 +8,7 @@ This is a **Python-based shopping discount calculator** that helps users keep tr
 
 - Input multiple shopping items with price and discount percentage.
 - Automatically calculate savings and final price per item.
-- Summarize total cost before and after discounts.
+- Summarise total cost before and after discounts.
 - Compare total cost with user budget and notify if within or over budget.
 - Input validation for price and discount to ensure proper values.
 - User-friendly interactive command-line interface.
